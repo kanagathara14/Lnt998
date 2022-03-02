@@ -1,2 +1,8 @@
 hai i am keerthana
+<<<<<<< HEAD
 beast is in loading
+=======
+I am from velur
+My hobby is listening music
+beast fever
+>>>>>>> branch-1
